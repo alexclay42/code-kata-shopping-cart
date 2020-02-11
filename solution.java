@@ -36,7 +36,7 @@ public class solution {
             }
             x++;
         }
-        System.out.println(totalValue);
+        System.out.println("Your total is: " + totalValue);
 
     }
 }
